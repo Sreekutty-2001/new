@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+body {
+    width: available;
+    height: 100vh;
+
+}
+
+.toppane {
+    background: gray;
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.leftpane {
+    height: available;
+    background: green;
+    flex: 1;
+    vertical-align:middle;
+
+}
+
+.wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
