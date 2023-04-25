@@ -10,22 +10,7 @@ body {
 
 }
 
-.toppane {
-    background: gray;
-    display:table-cell;
-    vertical-align:middle;
-}
-
-.leftpane {
-    height: available;
-    background: green;
-    flex: 1;
-    vertical-align:middle;
-
-}
-
-.wrapper {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
+.card{
+    border:0!important;
+    border-radius: 0!important;
 }
