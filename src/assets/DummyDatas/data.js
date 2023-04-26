@@ -8,7 +8,8 @@ export const data = [
     title: "Live Cam",
     icon: HiUser,
     color:"yellow",
-    value: 10
+    value: 10,
+    
   },
   {
     id: 2,
@@ -30,5 +31,45 @@ export const data = [
     icon: TbMessages,
     color:"red",
     value:127
+  },
+];
+
+
+
+export const listData = [
+  {
+  id:1,
+  img: "https://mui.com/static/images/avatar/1.jpg",
+  name:"John Travolta",
+  date: "12 March 2023",
+  amount:120
+  },
+  {
+  id:2,
+  img: "https://mui.com/static/images/avatar/1.jpg",
+  name:"Keira knightley",
+  date: "12 March 2023",
+  amount:190
+  },
+  {
+  id:3,
+  img: "https://mui.com/static/images/avatar/1.jpg",
+  name:"Bruce Willies",
+  date: "12 March 2023",
+  amount:59
+  },
+  {
+  id:4,
+  img: "https://mui.com/static/images/avatar/1.jpg",
+  name:"Hugh Jachman",
+  date: "12 March 2023",
+  amount:61
+  },
+  {
+  id:5,
+  img: "https://mui.com/static/images/avatar/1.jpg",
+  name:"Leonardo ",
+  date: "12 March 2023",
+  amount:45
   },
 ];

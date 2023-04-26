@@ -1,0 +1,27 @@
+#list {
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    display: flex;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-evenly;
+  }
+  
+  .avatar-div {
+    display: flex;
+    align-items: center;
+    /* background-color: red; */
+    margin-right: 10px;
+    width: 50px;
+    justify-content: center;
+    /* margin-left: -9px; */
+  }
+  .details {
+    height: 50px;
+    align-items: center;
+    /* background-color: green; */
+    align-items: center;
+    margin-left: 0px;
+  }
+  

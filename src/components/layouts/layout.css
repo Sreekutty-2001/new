@@ -5,7 +5,7 @@
 }
 .body-wrapper{
     flex: 1;
-    background-color: aliceblue;
+    background-color: rgba(240, 243, 246, 0.922);
 }
 .content{
     width: 100%;

@@ -4,24 +4,43 @@
 
 .num1 {
     font-weight: bold;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .num2 {
     font-weight: bold;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .num3 {
     font-weight: bold;
-    font-size: 13px;
+    font-size: 15px;
 
 }
 
 .num4 {
     font-weight: bold;
-    font-size: 13px;
-    /* margin-top: 35px; */
-    background-color: black;
-
+    font-size: 15px;
+    
 }
+.text-info1{
+   margin-top: 5px;
+    color: blue;
+    font-size: larger;
+}
+.text-info2{
+    color: red;
+    margin-top: 5px;
+    font-size: larger;
+}
+.text-info3{
+    color: rgb(244, 188, 3);
+    margin-top: 5px;
+    font-size: larger;
+}
+.text-info4{
+    color: rgb(51, 168, 12);
+    margin-top: 5px;
+    font-size: larger;
+}
+
